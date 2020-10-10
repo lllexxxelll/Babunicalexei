@@ -8,18 +8,18 @@ First Number: <input type="number" ng-model="a"><br>
 Last Number: <input type="number" ng-model="b"><br>
 <br>
 a+b: {{ a+"+"+b+"="}}
-{{a+b}}
+{{suma}}
 <br>
 
 a-b: {{ a+"-"+b+"="}}
-{{a-b}}
+{{suma}}
 
 <br>
 a*b: {{ a+"*"+b+"="}}
-{{a*b}}
+{{suma}}
 <br>
 a/b: {{ a+"/"+b+"="}}
-{{a/b}}
+{{suma}}
 
 
 
